@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨‍💻 I'm a full-stack software developer passionate about combining creativity and technology. 🌟 Experienced in Python, C++, React, and Flask, with a strong focus on building impactful projects. Currently building Opinio 🚀. Adept at leading teams, designing scalable solutions, and integrating cutting-edge APIs to solve real-world problems. Always eager to learn, innovate, and share knowledge through collaborative development and community engagement
+I’m a computer science student and aspiring full-stack developer eager to keep growing my skills. Over the past couple of years, I’ve immersed myself in hackathons and personal projects, building things like Opinio, a small-business-focused SaaS product, and many others. Working on these projects has helped me get more comfortable with tools such as Python, C++, React, Flask, and FastAPI—plus.
+
+Although I’ve led small teams for class assignments and personal side projects, I’m still learning the ropes of collaborating in bigger, real-world settings. Every time I join a project, I try to bring a solid sense of ownership and adaptability, embracing feedback and staying open to new ideas. Right now, my main goal is to keep broadening my technical foundation, refine my problem-solving skills, and find more opportunities to build meaningful software that addresses real user needs.
+
+I love working with others who share a passion for innovation and continuous learning. If you have a project idea, advice, or just want to chat about tech, feel free to reach out. Let’s learn and build together!
 
 
 ## 🌐 Socials:
