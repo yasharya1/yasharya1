@@ -1,9 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Yash, and Im currently pursuing my bachelors degree at UBC. I also like to build cool stuff. Working on these projects has helped me get more comfortable with tools such as Python, C++, React, Flask, and FastAPI—plus.
+👋 Hi, I'm Yash, and Im currently pursuing my bachelors degree at UBC. I also like to build cool stuff. 
 
 Right now, my main goal is to keep broadening my technical foundation, refine my problem-solving skills, and find more opportunities to build meaningful software that addresses real user needs.
 
-I love working with others who share a passion for innovation and continuous learning. If you have a project idea, advice, or just want to chat about tech, feel free to reach out. Let’s learn and build together!
+If you have a project idea, advice, or just want to chat about tech, feel free to reach out.
 
 
 # 💻 Tech Stack:
