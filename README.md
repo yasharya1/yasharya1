@@ -1,5 +1,5 @@
-# 💫 About Me:
-👋 Hi, I'm Yash, and Im currently pursuing my bachelors degree at UBC. I also like to build cool stuff. 
+# About Me:
+Hi, I'm Yash, and Im currently pursuing my bachelors degree at UBC. I also like to build cool stuff. 
 
 Right now, my main goal is to keep broadening my technical foundation, refine my problem-solving skills, and find more opportunities to build meaningful software that addresses real user needs.
 
