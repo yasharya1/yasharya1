@@ -1,5 +1,5 @@
 # About Me:
-Hi, I'm Yash, and Im currently pursuing my bachelors degree at UBC.
+Hi, I'm Yash (https://www.yasharya.info/), and Im currently pursuing my bachelors degree at UBC.
 
 Right now, my main goal is to keep broadening my technical foundation (ios dev as of 2025), refine my problem-solving skills, and find more opportunities to build meaningful software that addresses real user needs.
 
